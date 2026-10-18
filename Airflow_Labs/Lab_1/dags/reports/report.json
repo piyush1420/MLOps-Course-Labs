@@ -1,0 +1,13 @@
+{
+  "dataset": "penguins.csv",
+  "features_used": [
+    "bill_length_mm",
+    "flipper_length_mm",
+    "body_mass_g"
+  ],
+  "penguins_used": 328,
+  "real_species_in_data": 3,
+  "k_values_tried": "1 to 49",
+  "optimal_clusters_elbow": 5,
+  "created_at_utc": "2026-10-18T20:39:35.419382+00:00"
+}
