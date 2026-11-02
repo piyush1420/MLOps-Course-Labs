@@ -28,6 +28,8 @@ This section documents my implementation, additions, and fixes to the original M
 - Logged the experiment under the MLflow run `xgboost_models`.
 - **Best validation AUC: 0.898658**
 - This validation metric is not directly comparable to the Random Forest and Gradient Boosting test AUC values without evaluating the selected XGBoost model on the test set.
+
+- -----
 **Note:** Please refer to the attached screenshots for verification of my MLflow experiments, model registration, performance comparisons, and results.
 
 This documentation provides a step-by-step guide to a data science lab focused on predicting wine quality using Python. The lab covers data preprocessing, model training, model registration, and batch inference using MLflow and various machine learning libraries.
