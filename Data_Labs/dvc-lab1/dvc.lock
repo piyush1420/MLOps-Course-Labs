@@ -5,8 +5,8 @@ stages:
     deps:
     - path: data/titanic.csv
       hash: md5
-      md5: 61fdd54abdbf6a85b778e937122e1194
-      size: 60302
+      md5: 6e1ea3fc30a90b44603b4f7220217500
+      size: 61083
     - path: src/train.py
       hash: md5
       md5: bdaba9eff6b95eeadfa48f23f904598e
@@ -14,5 +14,5 @@ stages:
     outs:
     - path: metrics.json
       hash: md5
-      md5: 69ee02d6b588e29197cbcb5fb786560b
+      md5: 1678bf83946191e3c830bcd85702594b
       size: 85

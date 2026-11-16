@@ -1,6 +1,6 @@
 {
-  "accuracy": 0.7622,
-  "rows_used": 714,
-  "train_rows": 571,
-  "test_rows": 143
+  "accuracy": 0.8156,
+  "rows_used": 891,
+  "train_rows": 712,
+  "test_rows": 179
 }
